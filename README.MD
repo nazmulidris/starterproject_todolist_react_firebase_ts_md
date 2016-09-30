@@ -26,3 +26,6 @@ For Dev
 For Prod
 * `npm run postinstall`
 * `npm run start`
+
+To see this app in action, here it is on heroku:
+* https://todolist-r3bl-alliance.herokuapp.com/
