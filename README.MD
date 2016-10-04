@@ -1,6 +1,6 @@
 What does this project do? 
 ==========================
-For more information on this project, please read this tutorial - http://developerlife.com/?p=1621 
+For more information on this project, please read this tutorial - http://developerlife.com/2016/10/02/getting-started-with-react-and-firebase/
 
 Quick directions on getting this setup on my machine
 ====================================================
